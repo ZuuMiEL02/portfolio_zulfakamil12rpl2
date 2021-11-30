@@ -11,6 +11,7 @@ header {
 	height: 70px;
 	width: 100%;
 	background-color: #00969e;
+	z-index: 999; 
 }
 
 header h1 {
